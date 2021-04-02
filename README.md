@@ -1,4 +1,7 @@
 # fxserver-esx_status
+
+# ORIGINAL SCRIPT: https://github.com/esx-framework/esx_status
+
 [INSTALLATION]
 
 1) CD in your resources/[esx] folder
@@ -32,4 +35,3 @@ TriggerEvent('esx_status:registerStatus', name, default, color,
 	{remove = 200} -- Client action (add / remove) so the client can be in sync with server
 )
 ```
-# ORIGINAL SCRIPT: https://github.com/esx-framework/esx_status
