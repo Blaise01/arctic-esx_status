@@ -1,6 +1,6 @@
 # fxserver-esx_status
 
-# ORIGINAL SCRIPT: https://github.com/esx-framework/esx_status
+# THIS IS A MODIFIED VERSION OF THIS SCRIPT: https://github.com/esx-framework/esx_status
 
 [INSTALLATION]
 
